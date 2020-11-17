@@ -1,4 +1,5 @@
 # Pytorch-Tutorial_Nov2020
+<b>Yusuke Takahashi</b><br>
 This is my personal pytorch study repository.
 <hr>
 <h3>Development environment</h3>
